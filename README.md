@@ -1,4 +1,4 @@
-![alt text](https://i.imgur.com/cC6O9Y4.png)
+![alt text](https://imgur.com/a/jGPHOZB)
 
 # Data-Driven Hackathon
 
@@ -8,9 +8,11 @@ Tools are published under the MIT license with the intent of having them benefit
 
 ## 2025 Edition
 
-![](https://i.imgur.com/qLFMJ8u.png)
-
 Hosted at Bivwak! by BNP Paribas in Paris in january 2025, this edition had 12 teams working on their projects.
+
+## Sponsors
+
+This edition is sponsored by People Data Labs, Harmonic, SimilarWeb and PredictLeads that provided a data access, and prizes to the participants as well as datadrivenvc.io.
 
 ### Projects
 
