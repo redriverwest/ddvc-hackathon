@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/a/jGPHOZB)
+![alt text](https://i.imgur.com/O8vZHPM.png)
 
 # Data-Driven Hackathon
 
