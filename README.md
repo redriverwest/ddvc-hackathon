@@ -20,3 +20,4 @@ Explore the projects published as part of the 2025 edition
 
 | Project | Team members | Slide URL | Award |
 | ------- | ------------ | --------- | ----- |
+|VCBoost  | Benjamin Leroy, Catherine Tontorenzi, Ilie Baxan, Jinghao Yang, Jurgen Palsma, Michael, Edouard Boisson, Chahrazad Ferchichi, Lirone Levy | https://github.com/Lironeee/VCBoost |
