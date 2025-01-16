@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    command: python3 -m app.cli
+    tty: true
+    volumes:
+      - ./:/code/
+    env_file:
+      - .env
