@@ -20,7 +20,7 @@
 
 ## Instructions
 
-To add your project edit the README and append a row to the 2025 table following this format (leave the last row blank)
+To add your project, go to your team's branch (e.g. team-1), and do a PR by editing the README and appending a row to the 2025 table following this format (leave the last row blank)
 
 ```md
 | Project | Team members | Slide URL | Award |
