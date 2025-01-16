@@ -18,5 +18,6 @@ This edition is sponsored by People Data Labs, Harmonic, SimilarWeb and PredictL
 
 Explore the projects published as part of the 2025 edition
 
-| Project | Team members | Slide URL | Award |
-| ------- | ------------ | --------- | ----- |
+| Project                                                              | Team members                                                                                                                                                                                                                                          | Slide URL                                                                                                         | Award |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----- |
+| [Darwin](https://github.com/remi-denoyer/data-driven-hackathon-2025) | [@PierreGallet](https://github.com/PierreGallet) [@remi-denoyer](https://github.com/remi-denoyer) [@attehonkasalo](https://github.com/attehonkasalo) [@cuistobal](https://github.com/cuistobal) Khalil Janbek Clement de Coudenhove Koceila Barchiche | [Slides](https://drive.google.com/drive/folders/1KAJeuvLUyDXyDjVXXHu68w6JiXrdEr9o/Team_1_presenation_Darwin.pptx) |       |
