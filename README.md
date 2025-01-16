@@ -20,3 +20,4 @@ Explore the projects published as part of the 2025 edition
 
 | Project | Team members | Slide URL | Award |
 | ------- | ------------ | --------- | ----- |
+|Nontech VC - Data-Driven Investment Analysis Platform|Akram Abd-ali, Iakov Kaiumov, M'hamed Noé ABABOU, Matteo Pingarelli, Sami Carret|https://github.com/ababoum/data-driven-vc||
