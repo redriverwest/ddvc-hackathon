@@ -20,3 +20,4 @@ Explore the projects published as part of the 2025 edition
 
 | Project | Team members | Slide URL | Award |
 | ------- | ------------ | --------- | ----- |
+| [Darwin](https://github.com/remi-denoyer/data-driven-hackathon-2025) | @PierreGallet @remi-denoyer @attehonkasalo @cuistobal Khalil Janbek Clement de Coudenhove Koceila Barchiche | https://drive.google.com/drive/folders/1KAJeuvLUyDXyDjVXXHu68w6JiXrdEr9o/Team_1_presenation_Darwin.pptx |  |
