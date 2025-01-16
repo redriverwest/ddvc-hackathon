@@ -18,5 +18,6 @@ This edition is sponsored by People Data Labs, Harmonic, SimilarWeb and PredictL
 
 Explore the projects published as part of the 2025 edition
 
-| Project | Team members | Slide URL | Award |
-| ------- | ------------ | --------- | ----- |
+| Project                                                                       | Team members                                                                                                                                                                                                                                     | Slide URL | Award |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ----- |
+| ![](https://i.imgur.com/sp3BivC.png) [Pulse](https://github.com/heringo/ddvc) | [@heringo](https://github.com/heringo) [@ludofigueiredo](https://github.com/ludofigueiredo) [@ap-inflection](https://github.com/ap-inflection) [@lucabella98lakestar](https://github.com/lucabella98lakestar) [@mdolr](https://github.com/mdolr) | TBD       | TBD   |
