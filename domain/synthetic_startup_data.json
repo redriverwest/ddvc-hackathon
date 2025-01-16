@@ -1,0 +1,572 @@
+{
+    "FastGrower1": [
+        {
+            "date": "2025-02",
+            "revenues": 6240.4,
+            "cash_eop": 522260.22,
+            "ebitda": -52700.06,
+            "runway_months": 9.91,
+            "staff": 8,
+            "clients": 12,
+            "arr": 74884.78,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-03",
+            "revenues": 6860.23,
+            "cash_eop": 469849.57,
+            "ebitda": -52410.65,
+            "runway_months": 8.96,
+            "staff": 8,
+            "clients": 13,
+            "arr": 82322.75,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-04",
+            "revenues": 7527.48,
+            "cash_eop": 417015.77,
+            "ebitda": -52833.8,
+            "runway_months": 7.89,
+            "staff": 8,
+            "clients": 14,
+            "arr": 90329.76,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-05",
+            "revenues": 8261.71,
+            "cash_eop": 363852.8,
+            "ebitda": -53162.97,
+            "runway_months": 6.84,
+            "staff": 8,
+            "clients": 16,
+            "arr": 99140.49,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-06",
+            "revenues": 9060.89,
+            "cash_eop": 310381.1,
+            "ebitda": -53471.7,
+            "runway_months": 5.8,
+            "staff": 8,
+            "clients": 17,
+            "arr": 108730.62,
+            "funding_rounds": 0
+        }
+    ],
+    "FastGrower2": [
+        {
+            "date": "2025-02",
+            "revenues": 7824.04,
+            "cash_eop": 401540.66,
+            "ebitda": -42360.68,
+            "runway_months": 9.48,
+            "staff": 7,
+            "clients": 14,
+            "arr": 93888.5,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-03",
+            "revenues": 8725.31,
+            "cash_eop": 359175.54,
+            "ebitda": -42365.12,
+            "runway_months": 8.48,
+            "staff": 7,
+            "clients": 16,
+            "arr": 104703.77,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-04",
+            "revenues": 9740.06,
+            "cash_eop": 317004.06,
+            "ebitda": -42171.47,
+            "runway_months": 7.52,
+            "staff": 7,
+            "clients": 18,
+            "arr": 116880.67,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-05",
+            "revenues": 10904.63,
+            "cash_eop": 275205.88,
+            "ebitda": -41798.18,
+            "runway_months": 6.58,
+            "staff": 7,
+            "clients": 20,
+            "arr": 130855.54,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-06",
+            "revenues": 12215.11,
+            "cash_eop": 234190.22,
+            "ebitda": -41015.66,
+            "runway_months": 5.71,
+            "staff": 7,
+            "clients": 22,
+            "arr": 146581.31,
+            "funding_rounds": 0
+        }
+    ],
+    "UpDown1": [
+        {
+            "date": "2025-02",
+            "revenues": 8991.76,
+            "cash_eop": 813767.44,
+            "ebitda": -53222.92,
+            "runway_months": 15.29,
+            "staff": 10,
+            "clients": 22,
+            "arr": 107901.15,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-03",
+            "revenues": 8947.46,
+            "cash_eop": 765773.21,
+            "ebitda": -47994.23,
+            "runway_months": 15.96,
+            "staff": 9,
+            "clients": 21,
+            "arr": 107369.48,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-04",
+            "revenues": 8928.44,
+            "cash_eop": 723199.76,
+            "ebitda": -42573.45,
+            "runway_months": 16.99,
+            "staff": 8,
+            "clients": 21,
+            "arr": 107141.29,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-05",
+            "revenues": 8946.83,
+            "cash_eop": 679939.77,
+            "ebitda": -43259.99,
+            "runway_months": 15.72,
+            "staff": 8,
+            "clients": 21,
+            "arr": 107361.96,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-06",
+            "revenues": 8929.37,
+            "cash_eop": 642228.74,
+            "ebitda": -37711.03,
+            "runway_months": 17.03,
+            "staff": 7,
+            "clients": 21,
+            "arr": 107152.39,
+            "funding_rounds": 0
+        }
+    ],
+    "UpDown2": [
+        {
+            "date": "2025-02",
+            "revenues": 7236.06,
+            "cash_eop": 999974.54,
+            "ebitda": -72333.64,
+            "runway_months": 13.82,
+            "staff": 14,
+            "clients": 22,
+            "arr": 86832.69,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-03",
+            "revenues": 7213.89,
+            "cash_eop": 932573.89,
+            "ebitda": -67400.65,
+            "runway_months": 13.84,
+            "staff": 13,
+            "clients": 22,
+            "arr": 86566.71,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-04",
+            "revenues": 7209.88,
+            "cash_eop": 869949.91,
+            "ebitda": -62623.98,
+            "runway_months": 13.89,
+            "staff": 12,
+            "clients": 22,
+            "arr": 86518.6,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-05",
+            "revenues": 7224.16,
+            "cash_eop": 806143.53,
+            "ebitda": -63806.38,
+            "runway_months": 12.63,
+            "staff": 12,
+            "clients": 22,
+            "arr": 86689.95,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-06",
+            "revenues": 7217.39,
+            "cash_eop": 746951.51,
+            "ebitda": -59192.02,
+            "runway_months": 12.62,
+            "staff": 11,
+            "clients": 22,
+            "arr": 86608.67,
+            "funding_rounds": 0
+        }
+    ],
+    "UpDown3": [
+        {
+            "date": "2025-02",
+            "revenues": 8216.6,
+            "cash_eop": 782378.75,
+            "ebitda": -54692.45,
+            "runway_months": 14.31,
+            "staff": 8,
+            "clients": 24,
+            "arr": 98599.19,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-03",
+            "revenues": 8186.17,
+            "cash_eop": 734754.13,
+            "ebitda": -47624.62,
+            "runway_months": 15.43,
+            "staff": 7,
+            "clients": 24,
+            "arr": 98234.02,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-04",
+            "revenues": 8197.58,
+            "cash_eop": 686477.53,
+            "ebitda": -48276.6,
+            "runway_months": 14.22,
+            "staff": 7,
+            "clients": 24,
+            "arr": 98370.91,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-05",
+            "revenues": 8215.25,
+            "cash_eop": 638150.41,
+            "ebitda": -48327.12,
+            "runway_months": 13.2,
+            "staff": 7,
+            "clients": 24,
+            "arr": 98582.96,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-06",
+            "revenues": 8236.11,
+            "cash_eop": 589448.18,
+            "ebitda": -48702.23,
+            "runway_months": 12.1,
+            "staff": 7,
+            "clients": 24,
+            "arr": 98833.33,
+            "funding_rounds": 0
+        }
+    ],
+    "SlowGrower1": [
+        {
+            "date": "2025-02",
+            "revenues": 8178.93,
+            "cash_eop": 1256507.53,
+            "ebitda": -70898.04,
+            "runway_months": 17.72,
+            "staff": 18,
+            "clients": 45,
+            "arr": 98147.18,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-03",
+            "revenues": 8391.31,
+            "cash_eop": 1185035.81,
+            "ebitda": -71471.73,
+            "runway_months": 16.58,
+            "staff": 18,
+            "clients": 46,
+            "arr": 100695.73,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-04",
+            "revenues": 8634.21,
+            "cash_eop": 1112951.04,
+            "ebitda": -72084.76,
+            "runway_months": 15.44,
+            "staff": 18,
+            "clients": 47,
+            "arr": 103610.5,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-05",
+            "revenues": 8928.31,
+            "cash_eop": 1040544.97,
+            "ebitda": -72406.08,
+            "runway_months": 14.37,
+            "staff": 18,
+            "clients": 49,
+            "arr": 107139.71,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-06",
+            "revenues": 9192.92,
+            "cash_eop": 967533.58,
+            "ebitda": -73011.39,
+            "runway_months": 13.25,
+            "staff": 18,
+            "clients": 50,
+            "arr": 110315.09,
+            "funding_rounds": 0
+        }
+    ],
+    "SlowGrower2": [
+        {
+            "date": "2025-02",
+            "revenues": 7700.12,
+            "cash_eop": 1535926.64,
+            "ebitda": -129598.79,
+            "runway_months": 11.85,
+            "staff": 20,
+            "clients": 18,
+            "arr": 92401.5,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-03",
+            "revenues": 7816.48,
+            "cash_eop": 1406176.94,
+            "ebitda": -129749.7,
+            "runway_months": 10.84,
+            "staff": 20,
+            "clients": 18,
+            "arr": 93797.82,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-04",
+            "revenues": 7995.55,
+            "cash_eop": 1276540.39,
+            "ebitda": -129636.54,
+            "runway_months": 9.85,
+            "staff": 20,
+            "clients": 19,
+            "arr": 95946.56,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-05",
+            "revenues": 8126.35,
+            "cash_eop": 1146560.92,
+            "ebitda": -129979.47,
+            "runway_months": 8.82,
+            "staff": 20,
+            "clients": 19,
+            "arr": 97516.22,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-06",
+            "revenues": 8315.55,
+            "cash_eop": 1014890.07,
+            "ebitda": -131670.85,
+            "runway_months": 7.71,
+            "staff": 20,
+            "clients": 19,
+            "arr": 99786.58,
+            "funding_rounds": 0
+        }
+    ],
+    "SlowGrower3": [
+        {
+            "date": "2025-02",
+            "revenues": 8511.71,
+            "cash_eop": 661105.49,
+            "ebitda": -78779.35,
+            "runway_months": 8.39,
+            "staff": 20,
+            "clients": 44,
+            "arr": 102140.52,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-03",
+            "revenues": 8622.19,
+            "cash_eop": 581592.33,
+            "ebitda": -79513.16,
+            "runway_months": 7.31,
+            "staff": 20,
+            "clients": 44,
+            "arr": 103466.23,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-04",
+            "revenues": 8699.01,
+            "cash_eop": 501810.82,
+            "ebitda": -79781.51,
+            "runway_months": 6.29,
+            "staff": 20,
+            "clients": 45,
+            "arr": 104388.17,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-05",
+            "revenues": 8827.35,
+            "cash_eop": 421527.04,
+            "ebitda": -80283.78,
+            "runway_months": 5.25,
+            "staff": 20,
+            "clients": 46,
+            "arr": 105928.16,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-06",
+            "revenues": 8913.53,
+            "cash_eop": 341308.95,
+            "ebitda": -80218.09,
+            "runway_months": 4.25,
+            "staff": 20,
+            "clients": 46,
+            "arr": 106962.31,
+            "funding_rounds": 0
+        }
+    ],
+    "Decliner1": [
+        {
+            "date": "2025-02",
+            "revenues": 8504.68,
+            "cash_eop": 597424.97,
+            "ebitda": -75246.63,
+            "runway_months": 7.94,
+            "staff": 11,
+            "clients": 24,
+            "arr": 102056.21,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-03",
+            "revenues": 8044.24,
+            "cash_eop": 528454.31,
+            "ebitda": -68970.65,
+            "runway_months": 7.66,
+            "staff": 10,
+            "clients": 23,
+            "arr": 96530.88,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-04",
+            "revenues": 7618.09,
+            "cash_eop": 465678.5,
+            "ebitda": -62775.81,
+            "runway_months": 7.42,
+            "staff": 9,
+            "clients": 22,
+            "arr": 91417.09,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-05",
+            "revenues": 7217.84,
+            "cash_eop": 409409.45,
+            "ebitda": -56269.05,
+            "runway_months": 7.28,
+            "staff": 8,
+            "clients": 20,
+            "arr": 86614.11,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-06",
+            "revenues": 6832.97,
+            "cash_eop": 360094.52,
+            "ebitda": -49314.93,
+            "runway_months": 7.3,
+            "staff": 7,
+            "clients": 19,
+            "arr": 81995.67,
+            "funding_rounds": 0
+        }
+    ],
+    "Decliner2": [
+        {
+            "date": "2025-02",
+            "revenues": 6242.09,
+            "cash_eop": 1626745.51,
+            "ebitda": -89241.2,
+            "runway_months": 18.23,
+            "staff": 16,
+            "clients": 10,
+            "arr": 74905.04,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-03",
+            "revenues": 5784.48,
+            "cash_eop": 1542584.85,
+            "ebitda": -84160.67,
+            "runway_months": 18.33,
+            "staff": 15,
+            "clients": 9,
+            "arr": 69413.79,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-04",
+            "revenues": 5395.61,
+            "cash_eop": 1463554.33,
+            "ebitda": -79030.51,
+            "runway_months": 18.52,
+            "staff": 14,
+            "clients": 8,
+            "arr": 64747.34,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-05",
+            "revenues": 5006.33,
+            "cash_eop": 1390019.69,
+            "ebitda": -73534.64,
+            "runway_months": 18.9,
+            "staff": 13,
+            "clients": 8,
+            "arr": 60075.96,
+            "funding_rounds": 0
+        },
+        {
+            "date": "2025-06",
+            "revenues": 4649.17,
+            "cash_eop": 1321354.84,
+            "ebitda": -68664.85,
+            "runway_months": 19.24,
+            "staff": 12,
+            "clients": 7,
+            "arr": 55790.09,
+            "funding_rounds": 0
+        }
+    ]
+}
