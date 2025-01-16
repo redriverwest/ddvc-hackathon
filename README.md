@@ -19,4 +19,5 @@ This edition is sponsored by People Data Labs, Harmonic, SimilarWeb and PredictL
 Explore the projects published as part of the 2025 edition
 
 | Project | Team members | Slide URL | Award |
-| ------- | ------------ | --------- | ----- |
+| github.com | @alklkza | URL.com | / |
+
