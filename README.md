@@ -19,4 +19,4 @@ This edition is sponsored by People Data Labs, Harmonic, SimilarWeb and PredictL
 Explore the projects published as part of the 2025 edition
 
 | Project | Team members | Slide URL | Award |
-| ------- | ------------ | --------- | ----- |
+| [Timing is all you need](https://github.com/samyamine/hackathon_bivwak_team_3_final) | Amine - Jojy - Durrive - Boumanzah - Sacchi - Cameron | [Slides](https://docs.google.com/presentation/d/19nDNRie7giV_gjLFqbm9GFTHll5eIKyA/edit#slide=id.p1) | |
