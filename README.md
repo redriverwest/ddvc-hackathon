@@ -20,3 +20,4 @@ Explore the projects published as part of the 2025 edition
 
 | Project | Team members | Slide URL | Award |
 | ------- | ------------ | --------- | ----- |
+| [TenX](https://github.com/ianmihura/biwak-hack) | Zhan, Melissa, Anais, Erwin, Badr, Ian |   |   |
