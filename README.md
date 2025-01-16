@@ -20,3 +20,4 @@ Explore the projects published as part of the 2025 edition
 
 | Project | Team members | Slide URL | Award |
 | ------- | ------------ | --------- | ----- |
+ |SourceRight, https://github.com/newfundcap/ddvc-hackathon-2025|Priscilla Nguyen, Alexander Bracklo, Raphaël Khelif,Bin Jin, Antoine Latrille, Manoël Toussi, Emmanuel ??? (VC Advisor)||
