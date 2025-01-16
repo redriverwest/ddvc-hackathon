@@ -20,9 +20,9 @@
 
 ## Instructions
 
-To add your project, go to your team's branch (e.g. team-1), and do a PR by editing the README and appending a row to the 2025 table following this format (leave the last row blank)
+To add your project, go to your team's branch (e.g. team-1), and do a PR by editing the README and appending a row to the 2025 table following this format (leave the last row blank). Please put the name of your team in the title of the PR.
 
 ```md
 | Project | Team members | Slide URL | Award |
-| [Name of project](URL to readme) | @member1 @member2 @member3 | [Slides](URL to slide) | \_ |
+| [Name of project](URL to your Open-Sourced Github) | @member1 @member2 @member3 | [Slides](URL to slide) | \_ |
 ```
