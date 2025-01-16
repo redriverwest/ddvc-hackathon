@@ -2,6 +2,8 @@
 
 # Data-Driven Hackathon
 
+Github repo: https://github.com/palhart/hackathon-team7.git
+
 The Data-Driven Hackathon is an even organized by [Red River West](https://redriverwest.com) & [Bivwak! by BNP Paribas](https://bivwak.bnpparibas/) where participants work on building software & data tools for the Venture Capital industry.
 
 Tools are published under the MIT license with the intent of having them benefit the whole industry.
