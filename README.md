@@ -18,5 +18,6 @@ This edition is sponsored by People Data Labs, Harmonic, SimilarWeb and PredictL
 
 Explore the projects published as part of the 2025 edition
 
-| Project | Team members | Slide URL | Award |
-| ------- | ------------ | --------- | ----- |
+| Project                                                          | Team members                                                                                                                                                                                                                                 | Slide URL                                                                                                                                   | Award |
+| ---------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| [SourceRight](https://github.com/newfundcap/ddvc-hackathon-2025) | [@priscillachi](https://github.com/priscillachi) [@AlexBracklo23](https://github.com/AlexBracklo23) [@raphifou15](https://github.com/raphifou15) [@whisust](https://github.com/whisust) [@TM-Squared](https://github.com/TM-Squared) Bin Jin | [Slides](https://docs.google.com/presentation/d/1EdjpwCXm1NJWffOfKsa-ccUWfXVswWMt/edit?usp=drive_web&ouid=116890498073344036920&rtpof=true) |       |
