@@ -20,3 +20,4 @@ Explore the projects published as part of the 2025 edition
 
 | Project | Team members | Slide URL | Award |
 | ------- | ------------ | --------- | ----- |
+|https://github.com/0xJord4n/bnp-hackaton|Firas Gara, Leo Viguier, Jordan Canton, Catherine Chen Cathay, Ernests STals|| 
