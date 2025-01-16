@@ -18,5 +18,6 @@ This edition is sponsored by People Data Labs, Harmonic, SimilarWeb and PredictL
 
 Explore the projects published as part of the 2025 edition
 
-| Project | Team members | Slide URL | Award |
-| ------- | ------------ | --------- | ----- |
+| Project                                                 | Team members                                                                                                                              | Slide URL                                                                               | Award |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----- |
+| [Nontech VC](https://github.com/ababoum/data-driven-vc) | Akram Abd-ali, [@iakov-kaiumov](https://github.com/iakov-kaiumov), [@ababoum](https://github.com/ababoum), Matteo Pingarelli, Sami Carret | [Slides](https://docs.google.com/presentation/d/15U8tPhalUm-2d-Tg0H7WcqBK9hj4JnW8/edit) |       |
