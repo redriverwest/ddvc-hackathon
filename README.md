@@ -18,5 +18,6 @@ This edition is sponsored by People Data Labs, Harmonic, SimilarWeb and PredictL
 
 Explore the projects published as part of the 2025 edition
 
-| Project | Team members | Slide URL | Award |
-| ------- | ------------ | --------- | ----- |
+| Project                                        | Team members                                                                                                                                                                                                                                                   | Slide URL                                                                                           | Award  |
+| ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ------ |
+| [VCBoost](https://github.com/Lironeee/VCBoost) | [@benjaminleroy99](https://github.com/benjaminleroy99), Catherine Tontorenzi, Ilie Baxan, [@jinghaoYANG2000](https://github.com/jinghaoYANG2000), [@JurgenPalsma](https://github.com/JurgenPalsma), Michael, Edouard Boisson, Chahrazad Ferchichi, Lirone Levy | [Slides](https://docs.google.com/presentation/d/19LQC6MKAPaY21ImGsBUfMf2mPd0HDh6w/edit#slide=id.p1) | 🥉 3rd |
