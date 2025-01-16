@@ -18,5 +18,6 @@ This edition is sponsored by People Data Labs, Harmonic, SimilarWeb and PredictL
 
 Explore the projects published as part of the 2025 edition
 
-| Project | Team members | Slide URL | Award |
-| ------- | ------------ | --------- | ----- |
+| Project                                         | Team members                                                                                                                                                   | Slide URL   | Award |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ----- |
+| [TenX](https://github.com/ianmihura/biwak-hack) | Zhan, Melissa, Anais, [@ErwinGoneMad](https://github.com/ErwinGoneMad), [@badrskiba](https://github.com/badrskiba), [@ianmihura](https://github.com/ianmihura) | [Slides](?) |       |
