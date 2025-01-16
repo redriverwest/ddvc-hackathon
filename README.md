@@ -18,5 +18,6 @@ This edition is sponsored by People Data Labs, Harmonic, SimilarWeb and PredictL
 
 Explore the projects published as part of the 2025 edition
 
-| Project | Team members | Slide URL | Award |
-| ------- | ------------ | --------- | ----- |
+| Project                                            | Team members                                                                                                                                                                       | Slide URL                                                                               | Award |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ----- |
+| [VCLens](https://github.com/0xJord4n/bnp-hackaton) | [@gara2000](https://github.com/gara2000), [@LeoV31](https://github.com/LeoV31), [@0xJord4n](https://github.com/0xJord4n), Catherine Chen Cathay, [@er](https://github.com/ernests) | [Slides](https://docs.google.com/presentation/d/1QGUv0jWOAL3yw_J3gzAti1jma15fuxm8/edit) |       |
